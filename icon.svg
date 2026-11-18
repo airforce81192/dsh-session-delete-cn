@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" role="img" aria-label="Delete session permanently">
+  <g fill="none" stroke="#4a6b8a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7 10.5h22"/>
+    <path d="M14.5 10.5V8.2c0-.7.6-1.2 1.2-1.2h4.6c.6 0 1.2.5 1.2 1.2v2.3"/>
+    <path d="M10.6 10.5l1 15.6c.05.9.8 1.6 1.7 1.6h9.4c.9 0 1.65-.7 1.7-1.6l1-15.6"/>
+    <path d="M15.6 15v8.2"/>
+    <path d="M20.4 15v8.2"/>
+  </g>
+</svg>

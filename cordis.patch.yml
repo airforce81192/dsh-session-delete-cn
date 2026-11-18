@@ -1,0 +1,9 @@
+# dsh-session-delete-cn —— 随包分发的 profile patch（dsh.bundle 机制自动应用）
+#
+# 本文件随安装自动注册进 profile 的 dsh.profile.bundles 层；本 patch 即作为该层
+# 生效，无需手动编辑 profile 的 cordis.patch.yml。安装后无需重启即可通过 HMR 生效。
+#
+# 注意：下面的 id 必须与 package.json 的 name 完全一致。
+- insert:
+    - id: dsh-session-delete-cn
+      name: dsh-session-delete-cn
